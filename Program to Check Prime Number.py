@@ -1,4 +1,4 @@
-# Program to check if a number is prime or not
+# This is a program to check if a number is prime or not
 
 num = 407
 
@@ -17,6 +17,6 @@ if num > 1:
        print(num,"is a prime number")
        
 # if input number is less than
-# or equal to 1, it is not prime
+# or equal to 1, it is not a prime number
 else:
    print(num,"is not a prime number")
