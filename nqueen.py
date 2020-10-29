@@ -5,7 +5,7 @@ Created on Tue Oct 27 16:23:14 2020
 @author: Ahtazaz
 """
 
-n = int(input("Enter the number of Queens : "))
+n = int(input("Enter the number of Queens you want: "))
 Queen = [i for i in range(n)]
 
 def place(i, j):
