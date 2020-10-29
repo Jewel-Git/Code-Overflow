@@ -1,7 +1,9 @@
+#This is a program to print the cartesian product of numbers.
+
 import itertools
 from itertools import product
 
-repeat = int(input('How many possible combination do you want? > '))
+repeat = int(input('How many possible combinations do you want? > '))
 
 def cart_product():
 	all_digits = []
